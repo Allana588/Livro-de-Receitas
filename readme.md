@@ -1,4 +1,4 @@
-# Receita de Lasanha
+# Receita de Lasanha 🥧
 # ingredientes:
 - 500 g de massa de lasanha
 - 2 caixas de creme de leite
@@ -24,3 +24,4 @@
 - Despeje uma parte do molho à bolonhesa em um refratário, a metade da massa, a metade do presunto, a metade da mussarela, todo o molho branco e o restante da massa.
 - Repita as camadas até a borda do recipiente.
 - Finalize com o queijo ralado e leve ao forno alto (220° C), preaquecido, por cerca de 20 minutos.
+
