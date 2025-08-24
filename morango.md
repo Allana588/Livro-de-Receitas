@@ -1,4 +1,4 @@
-# Receita do Morango do Amor
+# Receita do Morango do Amor 🍓
  # ingredientes:
 -  2 xícaras e 1/2 de açúcar;
 -  1 xícara e 1/2 de água;
@@ -23,3 +23,4 @@
 - Cozinhe em fogo médio para baixo por cerca de 15 minutos até borbulhar e chegar em ponto de bala dura. Se tiver um termômetro culinário, deve atingir 150ºC. Caso não tenha, teste pingando uma gota do caramelo em um copo com água fria e veja se endurece.
 - Tire a calda de caramelo do fogo e cubra os morangos com ela, escorra o excesso e coloque-os sobre um recipiente com papel-manteiga ou untado
 - Deixe secar e pronto! Se quiser pode tirar do palito depois ou comer assim mesmo.
+
