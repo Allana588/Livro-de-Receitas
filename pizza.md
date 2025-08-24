@@ -1,4 +1,4 @@
-# receita de pizza de calabresa
+# receita de pizza de calabresa 🍕
 # ingredientes:
 - 500 g de farinha de trigo
 - 1 copo de água
@@ -23,4 +23,5 @@
 - Coloque o queijo mussarela por baixo da linguiça
 - Decore com a azeitona e orégano.
 - Retorne ao forno por mais 10 minutos ou até a mussarela dourar.
+
 - Retire do forno e sirva.
