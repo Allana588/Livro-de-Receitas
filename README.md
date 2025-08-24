@@ -5,4 +5,4 @@ Livro de receitas criado para aprender GitHub e Markdown
 
 [receita 2 - morango do amor](morango.md)
 
-[receita 3 - pizza](
+[receita 3 - pizza](pizza.md)
