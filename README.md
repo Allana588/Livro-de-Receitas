@@ -11,4 +11,4 @@ Livro de receitas criado para aprender GitHub e Markdown
 
 [receita 5 - palha italiana](palhaitaliana.md)
 
-[receita 6 -torta]()
+[receita 6 -torta](torta.md)
