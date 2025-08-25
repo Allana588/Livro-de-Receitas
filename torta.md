@@ -1,4 +1,4 @@
-# receita de torta de frango
+# receita de torta de frango 🥧
 # ingredientes:
 - 500 g de peito de frango sem pele
 - 4 colheres (sopa) de óleo
