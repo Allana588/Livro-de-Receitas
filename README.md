@@ -7,7 +7,7 @@ Livro de receitas criado para aprender GitHub e Markdown
 
 [receita 3 - pizza](pizza.md)
 
-[receita 4 - brigadeiro]()
+[receita 4 - brigadeiro](brigadeiro.md)
 
 [receita 5 - palha italiana]()
 
