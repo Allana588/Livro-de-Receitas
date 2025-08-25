@@ -1,5 +1,5 @@
 
-# receita de brigadeiro
+# receita de brigadeiro 🍫
 # ingredientes:
 - 1 colher de sopa de manteiga
 - 1 lata ou 395 gramas de leite condensado
