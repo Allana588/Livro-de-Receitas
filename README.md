@@ -6,3 +6,9 @@ Livro de receitas criado para aprender GitHub e Markdown
 [receita 2 - morango do amor](morango.md)
 
 [receita 3 - pizza](pizza.md)
+
+[receita 4 - brigadeiro]()
+
+[receita 5 - palha italiana]()
+
+[receita 6 -torta]()
