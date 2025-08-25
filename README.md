@@ -9,6 +9,6 @@ Livro de receitas criado para aprender GitHub e Markdown
 
 [receita 4 - brigadeiro](brigadeiro.md)
 
-[receita 5 - palha italiana](palha italiana.md)
+[receita 5 - palha italiana](palhaitaliana.md)
 
 [receita 6 -torta]()
