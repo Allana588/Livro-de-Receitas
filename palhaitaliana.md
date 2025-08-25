@@ -1,5 +1,5 @@
 
-# receita de palha italiana
+# receita de palha italiana 🍰
 # ingredientes:
 - 1 lata de leite condensado
 - 1/2 colher (sopa) de margarina
